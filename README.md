@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shafqatsha
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning java spring boot framework
+- 👀 I’m interested in learning new frameworks and programming languages
+- 🌱 Working as a front-end vuejs developer
 - 📫 How to reach me ... gmail: iamshafqatsha@gmail.com  
 
 <!---
